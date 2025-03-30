@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System 🧑‍🎓
 
 This is a simple Python-based **Student Management System** designed for basic operations such as storing, retrieving, modifying, and deleting student information. Data is saved to and loaded from a text file (`students.txt`).
@@ -91,3 +92,6 @@ cd student-management-system
 
 python student_management.py
 3. Menüden işlemlerinizi seçin.
+=======
+# StudentManagementSystem
+>>>>>>> c91af154553a7dfda3108c69362aa3076a8ee8b8
