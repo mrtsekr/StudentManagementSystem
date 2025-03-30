@@ -56,8 +56,6 @@ student-management-system/
 └── README.md               # This file
 Sample Menu
 
-```bash
-
 Menu:
 1. Write students to file
 2. Read students from file
