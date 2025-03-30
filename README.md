@@ -95,9 +95,9 @@ Otomatik yaş hesaplama
 
 2. Python dosyasını çalıştırın:
 
-```bash
+ ```bash
 
-python student_management.py
+ python student_management.py
 
 3. Menüden işlemlerinizi seçin.
 
