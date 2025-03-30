@@ -47,8 +47,6 @@ This is a simple Python-based **Student Management System** designed for basic o
 
 File Structure
 
-```bash
-
 student-management-system/
 │
 ├── student_management.py   # Main program
