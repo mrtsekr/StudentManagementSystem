@@ -1,18 +1,17 @@
-<<<<<<< HEAD
 # Student Management System 🧑‍🎓
 
 This is a simple Python-based **Student Management System** designed for basic operations such as storing, retrieving, modifying, and deleting student information. Data is saved to and loaded from a text file (`students.txt`).
 
 ## Features
 
-✅ Add new student 
-✅ Modify student record 
-✅ Delete student 
-✅ Find student by student number 
-✅ Show all students 
-✅ Show students by year of birth 
-✅ Save to file / Load from file 
-✅ Calculates student age automatically
+ - Add new student 
+ - Modify student record 
+ - Delete student 
+ - Find student by student number 
+ - Show all students 
+ - Show students by year of birth 
+ - Save to file / Load from file 
+ - Calculates student age automatically
 
 ## Technologies
 
@@ -47,6 +46,7 @@ This is a simple Python-based **Student Management System** designed for basic o
 
 File Structure
 	```bash
+	
 	student-management-system/
 	│
 	├── student_management.py   # Main program
