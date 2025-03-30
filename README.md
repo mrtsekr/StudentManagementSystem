@@ -41,13 +41,13 @@ This is a simple Python-based **Student Management System** designed for basic o
    cd student-management-system
 2. Run the Python script:
 
-```bash
-
-python student_management.py
+	```bash
+	python student_management.py
 3. Follow the menu options to manage student records.
 
 File Structure
-```bash
+
+	```bash
 
 student-management-system/
 │
@@ -55,7 +55,8 @@ student-management-system/
 ├── students.txt            # Data file (auto-created)
 └── README.md               # This file
 Sample Menu
-```bash
+
+	```bash
 
 Menu:
 1. Write students to file
@@ -90,13 +91,14 @@ Otomatik yaş hesaplama
 Çalıştırmak için
 1. Depoyu klonlayın:
 
-```bash
+	```bash
 
 git clone https://github.com/mrtsekr/StudentManagementSystem
 cd student-management-system
 
 2. Python dosyasını çalıştırın:
-```bash
+
+	```bash
 
 python student_management.py
 
