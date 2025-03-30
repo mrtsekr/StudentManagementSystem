@@ -37,14 +37,17 @@ This is a simple Python-based **Student Management System** designed for basic o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mrtsekr/student-management-system.git
+   git clone https://github.com/mrtsekr/StudentManagementSystem
    cd student-management-system
 2. Run the Python script:
+
+```bash
 
 python student_management.py
 3. Follow the menu options to manage student records.
 
 File Structure
+```bash
 
 student-management-system/
 │
@@ -52,6 +55,7 @@ student-management-system/
 ├── students.txt            # Data file (auto-created)
 └── README.md               # This file
 Sample Menu
+```bash
 
 Menu:
 1. Write students to file
@@ -74,24 +78,27 @@ Created by [Mert Şeker]
 Bu proje, Python diliyle yazılmış basit bir Öğrenci Yönetim Sistemidir. Öğrenci bilgilerini dosyaya kaydetme, listeleme, arama, güncelleme ve silme gibi temel işlemleri yapabilirsiniz. Veriler students.txt dosyasında saklanır.
 
 Özellikler
-✅ Yeni öğrenci ekleme
-✅ Öğrenci bilgisi güncelleme
-✅ Öğrenci silme
-✅ Öğrenci numarasına göre arama
-✅ Tüm öğrencileri listeleme
-✅ Belirli doğum yılına göre listeleme
-✅ Dosyaya yazma / Dosyadan okuma
-✅ Otomatik yaş hesaplama
+Yeni öğrenci ekleme
+Öğrenci bilgisi güncelleme
+Öğrenci silme
+Öğrenci numarasına göre arama
+Tüm öğrencileri listeleme
+Belirli doğum yılına göre listeleme
+Dosyaya yazma / Dosyadan okuma
+Otomatik yaş hesaplama
 
 Çalıştırmak için
 1. Depoyu klonlayın:
 
-git clone https://github.com/mrtsekr/student-management-system.git
+```bash
+
+git clone https://github.com/mrtsekr/StudentManagementSystem
 cd student-management-system
+
 2. Python dosyasını çalıştırın:
+```bash
 
 python student_management.py
+
 3. Menüden işlemlerinizi seçin.
-=======
-# StudentManagementSystem
->>>>>>> c91af154553a7dfda3108c69362aa3076a8ee8b8
+
