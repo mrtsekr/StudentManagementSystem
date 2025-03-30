@@ -45,6 +45,7 @@ This is a simple Python-based **Student Management System** designed for basic o
 3. Follow the menu options to manage student records.
 
 File Structure
+
 	```bash
 	
 	student-management-system/
